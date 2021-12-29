@@ -1,0 +1,5 @@
+{
+"name": "Anna Alexandrovna",
+"Age": 27,
+"Pets": 1,
+"Salary": 500$}
